@@ -1,0 +1,13 @@
+C:\Users\Элька\RiderProjects\lr1\lr1\bin\Debug\lr1.exe
+C:\Users\Элька\RiderProjects\lr1\lr1\bin\Debug\lr1.pdb
+C:\Users\Элька\RiderProjects\lr1\lr1\bin\Debug\mscorlib.dll
+C:\Users\Элька\RiderProjects\lr1\lr1\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Элька\RiderProjects\lr1\lr1\bin\Debug\normidna.nlp
+C:\Users\Элька\RiderProjects\lr1\lr1\bin\Debug\normnfc.nlp
+C:\Users\Элька\RiderProjects\lr1\lr1\bin\Debug\normnfd.nlp
+C:\Users\Элька\RiderProjects\lr1\lr1\bin\Debug\normnfkc.nlp
+C:\Users\Элька\RiderProjects\lr1\lr1\bin\Debug\normnfkd.nlp
+C:\Users\Элька\RiderProjects\lr1\lr1\obj\Debug\lr1.csproj.AssemblyReference.cache
+C:\Users\Элька\RiderProjects\lr1\lr1\obj\Debug\lr1.csproj.CoreCompileInputs.cache
+C:\Users\Элька\RiderProjects\lr1\lr1\obj\Debug\lr1.exe
+C:\Users\Элька\RiderProjects\lr1\lr1\obj\Debug\lr1.pdb
